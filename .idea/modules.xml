@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/transfers-web-functional.iml" filepath="$PROJECT_DIR$/.idea/modules/transfers-web-functional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/transfers-web-functional_main.iml" filepath="$PROJECT_DIR$/.idea/modules/transfers-web-functional_main.iml" group="transfers-web-functional" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/transfers-web-functional_test.iml" filepath="$PROJECT_DIR$/.idea/modules/transfers-web-functional_test.iml" group="transfers-web-functional" />
+    </modules>
+  </component>
+</project>

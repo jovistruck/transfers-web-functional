@@ -1,4 +1,4 @@
-package gradle.cucumber;
+package app;
 
 public class Production {
 

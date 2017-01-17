@@ -1,0 +1,19 @@
+{
+  "data": {
+    "manuscripts": {
+      "10.1186/s12864-015-2313-7": {
+        "body": "Next-generation sequencing projects commonly commence by aligning reads to a reference genome assembly. While improvements in alignment algorithms and computational hardware have greatly enhanced the efficiency and accuracy of alignments, a significant percentage of reads often remain unmapped.We generated de novo assemblies of unmapped reads from the DNA and RNA sequencing of the Bos taurus reference individual and identified the closest matching sequence to each contig by alignment to the NCBI non-redundant nucleotide database using BLAST. As expected, many of these contigs represent vertebrate sequence that is absent, incomplete, or misassembled in the UMD3.1 reference assembly. However, numerous additional contigs represent invertebrate species. Most prominent were several species of Spirurid nematodes and a blood-borne parasite, Babesia bigemina. These species are either not present in the US or are not known to infect taurine cattle and the reference animal appears to have been host to unsequenced sister species.We demonstrate the importance of exploring unmapped reads to ascertain sequences that are either absent or misassembled in the reference assembly and for detecting sequences indicative of parasitic or commensal organisms.",
+        "maximum_impact_factor": null,
+        "secondary_subjects": null,
+        "title": "What\u2019s in your next-generation sequence data? An exploration of unmapped DNA and RNA sequence reads from the bovine reference individual",
+        "journal_name": "BMC Genomics",
+        "primary_subject": null,
+        "keywords": "DNA sequencing RNA sequencing Unmapped reads",
+        "journal_link": "http://bmcgenomics.biomedcentral.com/",
+        "journal_id": "12864",
+        "open_access": "Yes",
+        "impact_factor": "3.867"
+      }
+    }
+  }
+}
